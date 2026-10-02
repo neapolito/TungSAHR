@@ -1,0 +1,8 @@
+{
+  "name": "tungnet",
+  "version": "1.0.0",
+  "description": "TungNet - a from-scratch Node.js rewriting web proxy (no dependencies)",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" }
+}
